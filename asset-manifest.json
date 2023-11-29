@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.549c59f6.css",
+    "main.js": "/static/js/main.53912423.js",
+    "static/media/Pretendard-Bold.woff": "/static/media/Pretendard-Bold.1f1dbbbf311ffffcc770.woff",
+    "static/media/Pretendard-Light.woff": "/static/media/Pretendard-Light.7d1a33b829142e833fb9.woff",
+    "static/media/Pretendard-Regular.woff": "/static/media/Pretendard-Regular.303253288b0ba99db532.woff",
+    "static/media/SUITE-Light.woff2": "/static/media/SUITE-Light.d773840f1b6668ea7954.woff2",
+    "static/media/SUITE-Bold.woff2": "/static/media/SUITE-Bold.26adc0d411a174b5add0.woff2",
+    "static/media/SUITE-Regular.woff2": "/static/media/SUITE-Regular.d1634611094d8cdb4256.woff2",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.549c59f6.css.map": "/static/css/main.549c59f6.css.map",
+    "main.53912423.js.map": "/static/js/main.53912423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.549c59f6.css",
+    "static/js/main.53912423.js"
+  ]
+}
